@@ -1,4 +1,4 @@
-# Sales-Finance-Analytics-An-AtliQ-Hardware-Case-study
+# Sales-Finance-Analytics-An-AtliQ-Hardware-Advanced Excel-Case-study
 
 In this project, As a Data Analyst of AtliQ Hardware Company,I have delved into a comprehensive exploration of Sales and Finance analytics,using a real life like dataset,i kept dissecting customer net sales and navigating the financial landscape through profit and loss reports. The major objectives of this project are:
 
